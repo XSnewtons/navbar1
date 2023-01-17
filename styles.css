@@ -77,11 +77,11 @@ header{
         right:0;
         width:100vw;
         background:#11101b ;
-        transition:5s;
+        transition:0.6s;
          overflow: hidden;
     }
     .nav-bar.active{
-        height: 450px;
+        height: 100vh;
     }
     .nav-bar ul{
         display: block;
